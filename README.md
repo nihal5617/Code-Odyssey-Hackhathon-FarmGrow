@@ -17,3 +17,10 @@ Main features were to get rewarded with points on successfully selling your wast
   <li>ChakraUi</li>
   <li>Bootstrap</li>
 </ul>
+
+# Team
+<ul>
+  <li><a href="https://github.com/jinish08">Jinish Shah</a></li>
+  <li><a href="https://github.com/LANCECORREIA">Lance Correia</a></li>
+  <li><a href="">Hetvi Solanki</a></li>
+</ul>
